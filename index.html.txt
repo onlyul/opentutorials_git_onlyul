@@ -19,6 +19,7 @@
 			<li>push</li>
 			<li>pull</li>
 			<li>sync</li>
+			<li>cooperation</li>
 		</ul>
 	</body>
 </html>
