@@ -13,6 +13,7 @@
 			<li>branch</li>
 			<li>conflict</li>
 			<li>conflict complete</li>
+			<li>remote repository</li>
 		</ul>
 	</body>
 </html>
