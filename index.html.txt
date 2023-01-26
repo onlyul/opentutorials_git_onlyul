@@ -11,6 +11,7 @@
 			<li>version</li>
 			<li>Master Branch</li>
 			<li>branch</li>
+			<li>conflict</li>
 		</ul>
 	</body>
 </html>
