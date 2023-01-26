@@ -8,6 +8,7 @@
 			<h1>Git</h1>
 		</header>
 		<ul>
+			<li>sync.yul</li>
 			<li>repository</li>
 			<li>version</li>
 			<li>Master Branch</li>
