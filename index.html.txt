@@ -12,6 +12,7 @@
 			<li>Master Branch</li>
 			<li>branch</li>
 			<li>conflict</li>
+			<li>conflict complete</li>
 		</ul>
 	</body>
 </html>
